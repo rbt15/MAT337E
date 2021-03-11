@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css");
+
+@font-face {
+  font-family: "F1";
+  src: url(./fonts/Formula1-Regular.otf) format("truetype");
+}
+@font-face {
+  font-family: "F1Black";
+  src: url(./fonts/Formula1-Bold.otf) format("truetype");
+}
+body {
+  font-family: "F1";
+  background-color: #ffffff;
+  font-size: 1.5rem;
+}
+.wrapper {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+.navbar-brand {
+  font-family: "F1Black";
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #ffffff !important;
+}
