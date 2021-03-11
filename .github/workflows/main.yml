@@ -11,6 +11,6 @@ jobs:
       with:
         host: ssh.itu.edu.tr
         username: apaydink19
-        password: 321654987.kirac
+        password: ${{ secrets.ftp_password}}
         port: 22
         script: whoami
