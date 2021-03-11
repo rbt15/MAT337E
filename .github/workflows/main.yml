@@ -14,5 +14,5 @@ jobs:
           server: 'ssh.itu.edu.tr'
           ssh_private_key: ${{ secrets.FTP_PASSWORD }}
           local_path: './*'
-          remote_path: '/web.itu.edu.tr/apaydink19/public_html/'
+          remote_path: '/web.itu.edu.tr/public_html/'
           args: '-o ConnectTimeout=5'
