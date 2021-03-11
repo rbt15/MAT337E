@@ -16,5 +16,5 @@ jobs:
         server: ssh.itu.edu.tr
         username: apaydink19
         password: ${{ secrets.ftp_password }}
-        protocol: fpts
+        protocol: ftps
         server-dir: web.itu.edu.tr/apaydink19/public_html/
