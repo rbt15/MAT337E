@@ -1,0 +1,18 @@
+name: scp files
+on: [push]
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: copy file via ssh password
+      uses: appleboy/scp-action@master
+      with:
+        host: ssh.itu.edu.tr
+        username: apaydink19
+        password: ${{ secrets.ftp_password }}
+        port: 22
+        source: "."
+        target: "/itu/s04d07/web.itu.edu.tr/apaydink19/public_html"
