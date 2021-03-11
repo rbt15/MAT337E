@@ -16,4 +16,5 @@ jobs:
         script: |
           whoami
           cd web.itu.edu.tr/public_html/
-          pwd
+          git clone https://github.com/rbt15/MAT337E.git
+          ls -a
