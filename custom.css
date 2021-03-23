@@ -13,15 +13,6 @@ body {
   background-color: #ffffff;
   font-size: 1.5rem;
 }
-.wrapper {
-  width: 50%;
-  margin: 0 auto;
-  margin-top: 50px;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
-  border-radius: 5px;
-}
 .navbar-brand {
   font-family: "F1Black";
   margin-left: 50px;
@@ -32,6 +23,12 @@ body {
 #github {
   font-size: 0.9rem;
   color: white;
+}
+
+#flex_cards {
+  font-size: 0.9rem;
+  color: white;
+  margin-top: 3px;
 }
 
 .login-form {
