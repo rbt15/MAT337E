@@ -106,3 +106,6 @@ body {
   background: #3c4d6d;
   transform: scale(1.1);
 }
+a:hover {
+  text-decoration: underline;
+}
