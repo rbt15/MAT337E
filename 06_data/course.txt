@@ -1,0 +1,455 @@
+20819	110999899	Melisa	Yıldız	MTO	ergezen
+20822	060999898	Deniz	Yanık	MET	tanriovere
+20822	050999897	Ali Eren	Topal	CHZ	tanriovere
+24885	010999896	Enes	Keleş	INS	ergezen
+20822	060999895	Levent	Özdemir	MET	tanriovere
+24885	110999894	Merve Nur	Öztürk	MTO	ergezen
+24884	040999893	Barış Mert	Sağlık	ELK	tanriovere
+20819	110999892	Ahmet	Yaramaz	UCK	ergezen
+21590	130999891	Burak Dinç	Bıyık	DUI	comerts
+20819	050999890	Tamerlan	Çakırca	JEO	ergezen
+24884	070999889	Anıl Orkun	Şanlan	END	tanriovere
+21590	130999888	Alper Duhan	Nurpeissov	DUI	comerts
+20819	110999887	Gözde	Dağlı	MTO	ergezen
+20820	130999886	Tayfun	Korkmaz	DUI	tanriovere
+25192	090999885	Fethiye Gülen	Şendil	FIZ	ergezen
+24884	130999884	Birol Oğulcan	Çalıkuş	DUI	tanriovere
+20822	060999883	Güneş	Çelik	MET	tanriovere
+20819	110999882	Sinem	Ülker	MTO	ergezen
+20820	010999881	İdris	Altınordu	INS	tanriovere
+25192	040999880	Berna	Aksongur	EHB	ergezen
+20822	070999879	Hande	Manav	END	tanriovere
+20820	070999878	Sedat	Özkan	END	tanriovere
+25192	050999877	Musa Anıl	Çoban	JEO	ergezen
+24884	070999876	Melih	Özbülbül	END	tanriovere
+21590	130999875	Kaan Can	Fandaklı	DUI	comerts
+20820	010999874	Ayşegül	Kılınç	GEO	tanriovere
+20819	110999873	Kadir	Aydın	UCK	ergezen
+24884	050999872	Mert	Berberoğlu	CHZ	tanriovere
+20819	110999871	Zahit Selim	Demirci	UCK	ergezen
+24884	070999870	Elif Ezgi	Usul	END	tanriovere
+20819	130999869	Ömer	Karadeniz	DUI	ergezen
+24885	130999868	Oğuzhan	Esen	DUI	ergezen
+20819	040999867	Ramazan	Ülgen	ELK	ergezen
+25192	010999866	Mevlüt Can	Davutoğlu	GEO	ergezen
+20819	110999865	Zehra	Payalan	MTO	ergezen
+20820	040999864	Melisa	Gülhan	EHB	tanriovere
+24885	050999863	Edip Bera	Akyıldız	JEO	ergezen
+25192	050999862	Mehmet	Yaldız	MAD	ergezen
+20820	010999861	Erman	Kabakcı	CEV	tanriovere
+21590	130999860	Sadık	Özen	GMI	comerts
+20822	090999859	Fikret	Coşkun	KIM	tanriovere
+25192	070999858	Yasemen	İnce	END	ergezen
+24885	040999857	Sinan	Özcan	EHB	ergezen
+24884	050999856	İbrahim İlkay	Türk	MAD	tanriovere
+20822	130999855	Cevat	Kent	DUI	tanriovere
+20819	010999854	Feyyaz	Uz	INS	ergezen
+20820	090999853	Alperen	Gökdemir	FIZ	tanriovere
+25192	050999852	Uğur Alp	Coşkun	MAD	ergezen
+20819	050999851	Eren	Atik	JEO	ergezen
+20819	040999850	Ali Kemal	Tarhan	ELK	ergezen
+20820	130999849	Atalay	Zavalsız	DUI	tanriovere
+24884	090999848	Fatih Kemal	Edige	KIM	tanriovere
+20822	050999847	Merve	Koçyiğit	CHZ	tanriovere
+20819	050999846	Çağatay	Köse	MAD	ergezen
+25192	130999845	Yakup	Ügümü	DUI	ergezen
+20819	130999844	Mehmet Kaan	Onatlar	DUI	ergezen
+24885	110999843	Elif Beyza	Ünal	MTO	ergezen
+24884	090999842	Emir	Şamiloğlu	KIM	tanriovere
+20819	040999841	Halit	Tok	ELK	ergezen
+20819	130999840	Murat	Çürük	DUI	ergezen
+20820	010999839	Arda	Günal	INS	tanriovere
+20822	050999838	Cem	Utugun	JEO	tanriovere
+25192	050999837	Münire Nur	Işık	JEO	ergezen
+24885	070999836	Barışmert	Sarıcı	END	ergezen
+20820	040999835	Kerim	Sağlam	ELK	tanriovere
+20822	130999834	Gizem	Aydoğdu	DUI	tanriovere
+24884	050999833	Cengiz Huang	Pehlivan	JEO	tanriovere
+20820	050999832	Hasan Berke	Kuloğlu	CHZ	tanriovere
+24885	010999831	Cihad Ekrem	Kayhan	GEO	ergezen
+20820	040999830	Feyzi	Şimşek	EHB	tanriovere
+20822	110999829	Muhammed Emin	Mutlu	UCK	tanriovere
+25192	010999828	Sefa Burak	Bulut	GEO	ergezen
+20820	010999827	Zeyneb	Durdu	CEV	tanriovere
+24885	130999826	Cevdet	Karahan	DUI	ergezen
+20819	050999825	Umut Can	Uçar	JEF	ergezen
+25192	040999824	Furkan	Akbaba	ELK	ergezen
+24885	050999823	Funda	İşler	MAD	ergezen
+20822	010999822	Onur Batın	Katırcıoğlu	CEV	tanriovere
+24885	110999821	Ahmet Selman	Akansu	UCK	ergezen
+24884	110999820	Esra	Tozman	UCK	tanriovere
+24884	010999819	Tayyar	Kaya	INS	tanriovere
+24885	090999818	Tuğçe	Atak	KIM	ergezen
+20822	050999817	Mithat Bora	Dorum	CHZ	tanriovere
+20819	010999816	Furkan	Burkay	GEO	ergezen
+24884	070999815	Emirhan	Nasyalçın	END	tanriovere
+24885	060999814	Günay	Kurultay	MET	ergezen
+24884	090999813	Dilfuza	Çıtak	KIM	tanriovere
+24885	110999812	Fazlı	Karcı	UCK	ergezen
+24884	130999811	Batuhan	Topcu	DUI	tanriovere
+24885	010999810	Muhammet Enes	Dağtekin	INS	ergezen
+20820	040999809	Sanberk	Şentürk	ELK	tanriovere
+25192	010999808	Mustafa Onur	Yıldırım	INS	ergezen
+24884	040999807	Selçuk	Saltoğlu	ELK	tanriovere
+20822	050999806	Aşkın	Özel	CHZ	tanriovere
+20819	040999805	Melda	Kahraman	ELK	ergezen
+20820	130999804	Ogün	Kireççiler	DUI	tanriovere
+24884	050999803	Betül Gül	Özvarinli	CHZ	tanriovere
+20822	040999802	Asım Zoran	Karakurt	EHB	tanriovere
+24885	010999801	Büşra	Şahin	INS	ergezen
+24884	070999800	Elif	Uslukaya	END	tanriovere
+20822	130999799	Tayfun	Korkmaz	DUI	tanriovere
+24885	090999798	Hasan	Tanguç	KIM	ergezen
+25192	010999797	Muhammed Fatih	Çakır	INS	ergezen
+20819	040999796	Engin	Varıcıoğlu	ELK	ergezen
+20822	050999795	Ozan	Ünlü	MAD	tanriovere
+20820	040999794	Mete	Gülseven	ELK	tanriovere
+20822	130999793	Kubilay	Güneş	DUI	tanriovere
+24884	130999792	Emirhan	Kuvvet	GMI	tanriovere
+25192	130999791	Alper Kağan	Eryılmaz	DUI	ergezen
+20822	050999790	Dilara	Güngördü	JEO	tanriovere
+20822	050999789	Derin	Güneş	JEO	tanriovere
+20822	070999788	Damla	Takcı	END	tanriovere
+20819	050999787	Ragıp Fırat	Coşkun	MAD	ergezen
+20820	050999786	Berna	Gönül	JEF	tanriovere
+25192	070999785	İbrahim	Tarı	END	ergezen
+21590	130999784	Oğuzhan	Yılmaz	DUI	comerts
+20822	060999783	Büşra Berfim	Nasır	MET	tanriovere
+20819	040999782	Pelin Su	Şahin	ELK	ergezen
+24884	130999781	Mehmet Mert	Ak	DUI	tanriovere
+20822	050999780	Rifat Kaan	Akgül	JEO	tanriovere
+20820	040999779	İbrahim Burak	Önder	EHB	tanriovere
+24884	070999778	Burak	Toydemir	END	tanriovere
+20822	050999777	Eren Mert	Özgök	JEO	tanriovere
+20822	060999776	Arda	Öztürk	MET	tanriovere
+24884	090999775	Beyza Naz	Karaer	KIM	tanriovere
+25192	050999774	Nergis	Bektaş	MAD	ergezen
+20819	050999773	Bilal	Tunç	JEO	ergezen
+20819	010999772	Oğuz	Karadeniz	INS	ergezen
+20820	130999771	Semih	Akbayır	DUI	tanriovere
+25192	090999770	Zülfü Atacan	Hudayberganova	FIZ	ergezen
+20820	040999769	Oğuzhan	Arslanoğlu	ELK	tanriovere
+24885	010999768	Berat	Şatıroğlu	INS	ergezen
+20820	090999767	Şule	Yiğit	FIZ	tanriovere
+24884	050999766	Abdullah	Ceyhan	MAD	tanriovere
+25192	050999765	Rabia	Cerrahoğlu	MAD	ergezen
+20819	050999764	Atahan	Tunay	CHZ	ergezen
+20822	010999763	Muhammed Furkan	Uysal	INS	tanriovere
+24885	130999762	Fatmagül	Aydoğan	GMI	ergezen
+20819	130999761	Ali Tarık	Bekik	DUI	ergezen
+25192	130999760	Mahir	Özmen	DUI	ergezen
+25192	060999759	Ramazan	Eren	MET	ergezen
+20822	090999758	Kayra Muhsin	Özgür	FIZ	tanriovere
+20820	010999757	Mustafa	Yıldırım	INS	tanriovere
+24885	050999756	İlke Onur	Köse	JEO	ergezen
+20819	090999755	Rumeysa	Pakgüç	FIZ	ergezen
+20819	010999754	Kaya	Çakmak	GEO	ergezen
+20820	050999753	Büşra	Kahraman	JEO	tanriovere
+20822	110999752	Zümra	Boz	MTO	tanriovere
+24884	110999751	Yusuf Emre	Akkoç	UCK	tanriovere
+20820	050999750	Eren	Ekren	JEO	tanriovere
+25192	010999749	Ayşenur	Ayyıldız	GEO	ergezen
+25192	040999748	Kemal	Ünlüağaç	EHB	ergezen
+20820	040999747	Hüseyin Güray	Tülümen	EHB	tanriovere
+24884	060999746	Hasan Oğulcan	Aydın	MET	tanriovere
+24884	060999745	Ahmet	Güler	MET	tanriovere
+25192	040999744	Can	Hekim	EHB	ergezen
+20819	110999743	İbrahim	Karacelep	UCK	ergezen
+20822	050999742	Merve	Kurman	JEF	tanriovere
+20819	010999741	Mehmet	Kurşun	INS	ergezen
+25192	040999740	Aziz Burak	Yanık	EHB	ergezen
+24884	070999739	Efe Kerem	Benkurt	END	tanriovere
+20822	090999738	Ercan	Bilici	FIZ	tanriovere
+20822	050999737	Hayri Atalay	Ceylan	CHZ	tanriovere
+20820	040999736	Bera	Coşkun	ELK	tanriovere
+24885	110999735	Furkan	Çoban	MTO	ergezen
+25192	040999734	Emre	Peker	EHB	ergezen
+20822	040999733	İlksu	Teko	ELK	tanriovere
+20822	060999732	Fatih Enes	Yıldırım	MET	tanriovere
+20819	060999731	Recep	Başaran	MET	ergezen
+24884	070999730	Emre	Kakıcı	END	tanriovere
+24885	040999729	Esad Ömer	Çelik	EHB	ergezen
+24884	130999728	Buğrahan	Köseni	DUI	tanriovere
+20819	050999727	Nisa Nur	Evren	JEO	ergezen
+20820	010999726	Tansel	Koçan	GEO	tanriovere
+24884	070999725	Ceren	Öztürk	END	tanriovere
+24884	070999724	Hurşit Doğancan	Öztürk	END	tanriovere
+20822	070999723	Kadirhan	Sarıkaya	END	tanriovere
+20822	130999722	Kemal	Kaş	DUI	tanriovere
+24885	010999721	Yiğitcan	Öztürk	INS	ergezen
+20820	050999720	Rıdvan Berk	Atilla	JEO	tanriovere
+24885	110999719	Tarık	Ergene	UCK	ergezen
+24885	050999718	İbrahim Mohammed	Arslan	JEO	ergezen
+20819	941999717	Ahmet Ünsal	Kurt	INS	ergezen
+21590	130999716	Fırat Arda	Gürün	DUI	comerts
+25192	010999715	Berkay	Tükel	GEO	ergezen
+24885	050999714	Çağrı	Turanlı	JEO	ergezen
+24885	050999713	Boray	Alpay	MAD	ergezen
+20819	090999712	Adlet	Gökyar	KIM	ergezen
+25192	010999711	Nihan Cemre	Şahan	GEO	ergezen
+20822	050999710	Gamze	Kesici	JEO	tanriovere
+20819	050999709	Mesut Deniz	Huysuz	MAD	ergezen
+24884	050999708	Oğuz Kaan	Saraçoğlu	JEO	tanriovere
+24885	130999707	Bahri	Dodanlı	DUI	ergezen
+20820	110999706	Rifat	Akhisar	UZB	tanriovere
+20819	090999705	Zeynep	Güneş	KIM	ergezen
+20819	130999704	Revşan	Muslu	DUI	ergezen
+24884	070999703	Deniz	Ergüven	END	tanriovere
+20822	090999702	Muhammet Emin	Gürhan	FIZ	tanriovere
+20819	130999701	Taha Tayyip	Gürel	DUI	ergezen
+20822	040999700	Kazım Mert	Haykırer	EHB	tanriovere
+24885	110999699	Nilay İlayda	Kurban	UCK	ergezen
+20819	130999698	Ali Furkan	Uğurluel	DUI	ergezen
+25192	070999697	Ata Berk	Altay	END	ergezen
+24884	130999696	İbrahim	Pirizoğlu	DUI	tanriovere
+24885	040999695	Mehmet Can	Günel	ELK	ergezen
+20819	110999694	Abdullah	Sönmez	MTO	ergezen
+20822	090999693	Yaren	Taşkıran	FIZ	tanriovere
+20820	050999692	Serkan	Tiryaki	CHZ	tanriovere
+20822	050999691	Buşra	Selçuk	MAD	tanriovere
+24884	090999690	Asude	Akay	KIM	tanriovere
+24884	150999689	Guris	Akgül	BLG	tanriovere
+20820	050999688	Ahmet Hakan	Özen	MAD	tanriovere
+25192	040999687	Deniz Kazım	Bostan	ELK	ergezen
+21590	130999686	Efe	Şekerci	GMI	comerts
+20819	150999685	Ali	Hişmioğulları	BLG	ergezen
+24885	110999684	Muhammet Kaan	Dönmez	UCK	ergezen
+24885	060999683	Edanur	Terzioğlu	MET	ergezen
+24885	050999682	Sevan	Tutuk	JEO	ergezen
+20822	110999681	Abdullah	Güler	MTO	tanriovere
+20820	050999680	Deniz Utkan	Tezer	JEF	tanriovere
+24885	040999679	Eren	Durmaz	ELK	ergezen
+24884	070999678	Eren	Özzeren	END	tanriovere
+20822	050999677	Beyza Nur	Kahraman	CHZ	tanriovere
+24885	050999676	Oğuz	Akköse	JEF	ergezen
+20822	050999675	Eren Safa	Tatar	CHZ	tanriovere
+24884	070999674	Hilmi	Koplay	END	tanriovere
+20819	050999673	Oğuzhan	Uslu	JEO	ergezen
+20822	060999672	Kürşat Alp	Toprak	MET	tanriovere
+25192	110999671	Büşra	Yılmaz	UCK	ergezen
+20820	010999670	Hande	Kul	CEV	tanriovere
+24885	010999669	Ege	Ünal	CEV	ergezen
+20822	090999668	Seyyidi Kerim	Şakar	FIZ	tanriovere
+25192	130999667	Aras	Öztürk	DUI	ergezen
+20822	040999666	Bekir Fatih Sultan	Kuzu	EHB	tanriovere
+20822	040999665	Olgu	Yılmaz	EHB	tanriovere
+24885	110999664	Enes	Rahna	UCK	ergezen
+20822	060999663	Taha	Koparan	MET	tanriovere
+20822	050999662	Gamze	Türkmen	MAD	tanriovere
+20820	110999661	Tuna	Karahan	UCK	tanriovere
+20822	060999660	Hüseyin Enes	Alkan	MET	tanriovere
+20819	130999659	Karahan	Özcan	GMI	ergezen
+20819	010999658	Revşan	Karaüzüm	INS	ergezen
+20822	060999657	Bedirhan	Ersan	MET	tanriovere
+24884	110999656	Abdullah	Mahmoud	UCK	tanriovere
+20820	110999655	Uğur Zınar	Duman	MTO	tanriovere
+20819	010999654	Şenol	Kırmızıtaş	GEO	ergezen
+20819	010999653	Mert	Kurnaz	GEO	ergezen
+24885	040999652	Ömer	Tok	ELK	ergezen
+20819	010999651	Busenur	Sökmen	CEV	ergezen
+20822	110999650	Süleyman	Toprak	MTO	tanriovere
+20819	090999649	Fersun Zeynep	Ulusoy	KIM	ergezen
+24884	070999648	Şevval Ecem	Tok	END	tanriovere
+24885	060999647	Batuhan	Yapıcı	MET	ergezen
+24884	070999646	Eren	Durukan	END	tanriovere
+21590	130999645	Ulukan	Efe	GMI	comerts
+25192	050999644	Gökhan	Küçükgök	CHZ	ergezen
+20819	090999643	Yağmur Dicle	Azboz	KIM	ergezen
+20822	050999642	Nidanur	Ramakan	CHZ	tanriovere
+20822	130999641	Seren	Alıçcı	DUI	tanriovere
+21590	130999640	Ozan	Kırımlı	DUI	comerts
+20822	130999639	Serdar	Özbayrak	DUI	tanriovere
+20820	110999638	Rumet Abdullah	Birincioğlu	MTO	tanriovere
+24885	090999637	Sera Yağmur	Kolak	KIM	ergezen
+20822	050999636	İpek	Küçükşahinoğlu	CHZ	tanriovere
+24885	050999635	Gizem	Gündüç	MAD	ergezen
+25192	050999634	Fatma Nur	Karaca	MAD	ergezen
+24884	110999633	Muhammed	Aydınburun	UCK	tanriovere
+24885	010999632	Osman Serdar	Yapar	CEV	ergezen
+20822	110999631	Büşra Han	Yılmaz	MTO	tanriovere
+24885	090999630	Çiğdem	Özügürler	KIM	ergezen
+20819	010999629	Melike	Çolakoğlu	GEO	ergezen
+24884	090999628	Hilal Gökçe	Kılınç	KIM	tanriovere
+20822	090999627	Barış Fırat	Eren	FIZ	tanriovere
+20819	110999626	Abdülbaki	Koyubekmez	UCK	ergezen
+20822	050999625	Doğukan	Uzuner	MAD	tanriovere
+24884	070999624	Gülüm	Bayrak	END	tanriovere
+20819	130999623	Ahmet	Özcan	DUI	ergezen
+24884	040999622	Salih	Tuzcu	EHB	tanriovere
+20820	070999621	Ertuğrul	Güder	END	tanriovere
+20819	050999620	Burçin	Karamanoğlu	JEO	ergezen
+20820	090999619	Berkant	Yılmaz	FIZ	tanriovere
+20819	050999618	Timur İkramovich	Beşirli	JEF	ergezen
+20819	050999617	Cihan	İpeker	PET	ergezen
+20819	130999616	Can	Tayanç	DUI	ergezen
+24885	070999615	Aykut	Akgün	END	ergezen
+24884	110999614	Çağdaş	Şahin	MTO	tanriovere
+20820	040999613	Muhammed Mert	Akçay	EHB	tanriovere
+20822	050999612	Yunus Emre	Acar	JEO	tanriovere
+20820	050999611	Gizem	Erce	MAD	tanriovere
+24885	040999610	Doğanay	Turhan	EHB	ergezen
+20822	130999609	Hasan Can	Eğe	DUI	tanriovere
+20819	110999608	Yağızhan	Saklı	MTO	ergezen
+24884	090999607	Melda	Aydın	KIM	tanriovere
+20822	060999606	Enes	Biçer	MET	tanriovere
+24884	050999605	Nermin Nisa	Aslan	MAD	tanriovere
+25192	040999604	Umut	Gömeç	ELK	ergezen
+20819	110999603	Zeki Serhat	Koşar	MTO	ergezen
+20819	050999602	Hakan İsmail	Aydemir	JEF	ergezen
+24884	050999601	Hamitcan Altay	Çulha	JEO	tanriovere
+20822	110999600	Gökberk Ozan	Çiftçi	MTO	tanriovere
+25192	130999599	Mert Celil	Okumuş	DUI	ergezen
+20819	010999598	Barış Kaan	Kara	CEV	ergezen
+24884	050999597	İmran	Yıldırım	MAD	tanriovere
+20820	010999596	İrem Delfin	Yurttaş	GEO	tanriovere
+20819	110999595	Abdulkadir	Erbaş	MTO	ergezen
+20822	050999594	Burak	Barışer	CHZ	tanriovere
+20822	050999593	Havva Mine	Hacıoğlu	CHZ	tanriovere
+20822	050999592	İpek	Şahan	MAD	tanriovere
+25192	010999591	Muhammet Halit	Tüfekyapan	INS	ergezen
+20822	060999590	Deniz	Bektaşoğlu	MET	tanriovere
+24885	070999589	Beyzanur	Bulgan	END	ergezen
+24885	010999588	Şerife Şimay	Güneş	CEV	ergezen
+20820	060999587	Oğuzhan	Kahveci	MET	tanriovere
+24884	050999586	Tolga Eren	Kesgin	JEO	tanriovere
+20820	010999585	Ece	Taş	CEV	tanriovere
+20819	110999584	Dilan Çağla	Bulut	MTO	ergezen
+24884	110999583	Pervin Gizem	Özata	MTO	tanriovere
+20819	010999582	Fatih	Aksu	GEO	ergezen
+20819	050999581	Melisa	Tosun	CHZ	ergezen
+25192	050999580	Hakkı İlyas	Özkan	MAD	ergezen
+20820	040999579	Mehmet Emin	Güler	EHB	tanriovere
+20820	140999578	Muhammed	Duru	TEK	tanriovere
+20822	050999577	Simay	Kırmızıgül	MAD	tanriovere
+20819	050999576	Esra	Yanar	JEO	ergezen
+24885	050999575	Emin Berke	Baştürk	JEO	ergezen
+24885	010999574	Ata Can	Uysal	INS	ergezen
+20822	070999573	Ismail	İmamoğlu	END	tanriovere
+24885	110999572	Yuşanur	Gültekin	UCK	ergezen
+20819	060999571	Berna	Yücetepe	MET	ergezen
+24884	010999570	Furkan	Yıldız	INS	tanriovere
+24885	060999569	Tunç Deha	Katkat	MET	ergezen
+20822	050999568	İrem	Temiz	JEF	tanriovere
+20822	090999567	Hatice Kübra	Sevinç	FIZ	tanriovere
+20822	090999566	Göktuğ	Of	FIZ	tanriovere
+24884	130999565	Birhan Cemil	Altay	DUI	tanriovere
+24885	010999564	Cafer	Çalaner	CEV	ergezen
+20820	130999563	Alper Enver	Kuş	DUI	tanriovere
+20822	130999562	Bartu	Varol	DUI	tanriovere
+20822	090999561	Zeynep	Yıldıran	FIZ	tanriovere
+24884	070999560	Ece	İş	END	tanriovere
+21590	130999559	Mustafa Alpkan	Kaya	GMI	comerts
+20822	040999558	Atahan	Altıntaş	EHB	tanriovere
+24884	050999557	Mehmet Aytek	Çelik	JEO	tanriovere
+24885	050999556	Bahadır	Okur	JEO	ergezen
+24884	050999555	Anıl	Ellialtı	MAD	tanriovere
+20820	050999554	Orkun	Karahan	CHZ	tanriovere
+20819	040999553	Ahmet Bahadır	Kayaer	EHB	ergezen
+24885	090999552	Zeynep	Öztürk	KIM	ergezen
+25192	110999551	Barış	Tuğan	MTO	ergezen
+20820	060999550	Hayriye Ceylin	Yılmaz	MET	tanriovere
+20819	150999549	Ozan	Altıntaş	BLG	ergezen
+24884	010999548	Rıfat Görkem	Gürsoy	INS	tanriovere
+24885	090999547	Canset	Atay	KIM	ergezen
+24885	060999546	Elifnaz	Yaylı	MET	ergezen
+24884	050999545	Cansel	Buldur	MAD	tanriovere
+20822	050999544	Nisa Nur	Aluçlu	CHZ	tanriovere
+24885	040999543	Aybegüm	Kantarcı	EHB	ergezen
+20819	050999542	Şuara	Sezer	JEF	ergezen
+24885	010999541	Asım	Ünal	INS	ergezen
+25192	090999540	Mustafa	Elçi	FIZ	ergezen
+24884	060999539	Öykü	Salman	MET	tanriovere
+20822	130999538	Abdulbaki	Aydın	DUI	tanriovere
+20822	050999537	Emre	Yazıcı	CHZ	tanriovere
+20820	130999536	Kutluhan	Yorulmaz	DUI	tanriovere
+20822	090999535	Kaan	Bekmezci	FIZ	tanriovere
+20822	130999534	Abdullah	Yanaz	GMI	tanriovere
+25192	130999533	Osman	Karakuş	DUI	ergezen
+25192	040999532	Erhan	Turan	EHB	ergezen
+25192	050999531	Ömer Faruk	Alıcı	CHZ	ergezen
+20820	060999530	Tunçay Begüm	Aktaş	MET	tanriovere
+20819	010999529	Nisanur	Emre	INS	ergezen
+20819	090999528	Buse	Kırgıl	KIM	ergezen
+20822	040999527	Efe	Akbaş	EHB	tanriovere
+20819	040999526	Enes	Kurnaz	ELK	ergezen
+20820	010999525	Metehan	Önal	GEO	tanriovere
+24884	110999524	Ümit Batuhan	Reyhan	UCK	tanriovere
+20819	110999523	Abdul Rahim	Kütük	UCK	ergezen
+24885	050999522	Nazra	Ünal	JEF	ergezen
+20820	942999521	Samet	Oturanç	INS	tanriovere
+24885	090999520	Çağla	Karaöz	KIM	ergezen
+24884	060999519	Hayrettin Yuşa	Solmaz	MET	tanriovere
+24884	040999518	Hüseyin	Kinsiz	ELK	tanriovere
+20819	050999517	Kübra	Ergün	JEF	ergezen
+20822	050999516	Mehmet Semih	Şenel	CHZ	tanriovere
+24885	050999515	Oğuzhan	Ayan	JEF	ergezen
+20819	050999514	Tuana	Işık	JEF	ergezen
+20822	050999513	Veli	Dursun	CHZ	tanriovere
+20819	070999512	Sude	Güneş	END	ergezen
+20822	070999511	Doğukan	İnanç	END	tanriovere
+20822	110999510	Merve	Kaya	MTO	tanriovere
+24885	070999509	Ömer Faruk	Sonat	END	ergezen
+20822	050999508	Metehan Doğukan	Sezgin	JEO	tanriovere
+20822	130999507	Nazım Emre	Bayyar	DUI	tanriovere
+24885	050999506	Yağmur	Caner	JEO	ergezen
+24884	090999505	Ayşe Enda	Sevinç	KIM	tanriovere
+24884	090999504	Şevval Ece	Özdoğan	KIM	tanriovere
+24885	040999503	Yunus Emre	Özşimşek	ELK	ergezen
+25192	150999502	Alican	Parlak	BLG	ergezen
+20822	050999501	Emine Berfin	Ata	CHZ	tanriovere
+20822	050999500	Mert	Ermiş	MAD	tanriovere
+20819	130999499	Berrin	Dönmez	DUI	ergezen
+20820	050999498	Ömer Berke Can	Yılmazatilla	JEO	tanriovere
+24884	050999497	Kutay	Çalışır	CHZ	tanriovere
+20822	130999496	Ece Gizem	Samancı	DUI	tanriovere
+20819	050999495	Begüm	Altıparmak	JEF	ergezen
+20822	050999494	Elif Kübra	Aslandağ	JEO	tanriovere
+25192	130999493	Kamil Emre	Zenginoğlu	DUI	ergezen
+20820	020999492	Zümrüte Arzu Ayşenur	Sarıbudak	INS	tanriovere
+24885	010999491	Mirza Barış	Yalçınkaya	CEV	ergezen
+20819	060999490	Enes	Kayrak	MET	ergezen
+25192	090999489	Mustafa	Peközcan	FIZ	ergezen
+24885	040999488	Ramazan	Çankaya	EHB	ergezen
+20822	050999487	Mehmet Burak	Özbal	CHZ	tanriovere
+20819	090999486	Serdar	Darıshov	KIM	ergezen
+24885	090999485	Eda	Kutlu	KIM	ergezen
+20822	070999484	Ömer Faruk	Latifoğlu	END	tanriovere
+20820	050999483	Dilan	Dinçer	MAD	tanriovere
+20822	090999482	Muhammed	Aksungur	FIZ	tanriovere
+24884	050999481	Emre	Güven	CHZ	tanriovere
+25192	050999480	Alp Kağan	Tajiyev	CHZ	ergezen
+20822	050999479	Mehmet Umut	Tuna	CHZ	tanriovere
+20822	050999478	Abdullah	Yılmaz	MAD	tanriovere
+20819	050999477	Volkan	Güzel	JEO	ergezen
+21590	130999476	Mert Buğra	Pirselimoğlu	DUI	comerts
+24884	050999475	Emre	Uluç	CHZ	tanriovere
+20819	110999474	Kazım Mert	Yazıcı	UCK	ergezen
+20822	060999473	Gülben	Etöz	MET	tanriovere
+20819	090999472	Elif	Sağnıç	KIM	ergezen
+24884	070999471	Osman Oğuz	Sarıkaya	END	tanriovere
+20820	130999470	Muhammed	Terzi	DUI	tanriovere
+25192	130999469	Berke Can	Gür	DUI	ergezen
+24885	090999468	Muhammet Ali	Yıldırım	KIM	ergezen
+20820	050999467	Bora	Yılmaz	JEO	tanriovere
+25192	010999466	Dilara	Akbaş	CEV	ergezen
+20822	050999465	Serdar	Tavşanoğlu	MAD	tanriovere
+24885	070999464	Ebubekir	Zaimoğlu	END	ergezen
+25192	040999463	Doğukan Emre	Altun	EHB	ergezen
+20819	040999462	Emre	Gözüküçük	EHB	ergezen
+20822	090999461	Asya	Özdemir	FIZ	tanriovere
+20819	010999460	Atilla	Erkan	CEV	ergezen
+20819	040999459	Civan Özer	Altaş	ELK	ergezen
+20820	010999458	Emre	Taşarkuyu	GEO	tanriovere
+25192	090999457	Can	Aydemir	FIZ	ergezen
+25192	040999456	Abdullah	Koçak	ELK	ergezen
+25192	090999455	Melike	Tütüncüler	FIZ	ergezen
+24885	050999454	Egemen	Eğmen	JEO	ergezen
+24884	110999453	Nisa	Akgün	UCK	tanriovere
+20822	040999452	Ahmet	Terzi	EHB	tanriovere
+20822	050999451	Sude Yağmur	Güngör	MAD	tanriovere
+24884	010999450	Taha İsmail	Oy	INS	tanriovere
+20820	040999449	Ahmet	Uyar	EHB	tanriovere
+25192	110999448	Eray	Ülker	UCK	ergezen
+20819	050999447	Oğuz	Kaya	JEO	ergezen
+20819	050999446	Buket	Kocaoğlu	JEF	ergezen
+20819	010999445	Mesut Can	Baltacı	GEO	ergezen
