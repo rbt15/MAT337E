@@ -59,18 +59,19 @@
       </div>
     </nav>
 
-    <div class="login-form">
-      <form>
+    <div class="login-form" >
+      <form method="post" action="login.php">
         <h1>Login</h1>
         <div class="content">
           <div class="input-field">
-            <input type="email" placeholder="Email" autocomplete="nope" />
+            <input type="email" placeholder="Email" autocomplete="nope" name="username" />
           </div>
           <div class="input-field">
             <input
               type="password"
               placeholder="Password"
               autocomplete="new-password"
+              name="password"
             />
           </div>
           <div class="forgot">
@@ -83,79 +84,11 @@
           </div>
         </div>
         <div class="action">
-          <button type="reset">Register</button>
-          <button type="submit">Sign in</button>
+          <button type="submit" name="signup_button" value="Signup">Register</button>
+          <button type="submit" name="login_button" value="Login">Sign in</button>
         </div>
       </form>
     </div>
-
-    <!-- <div class="wrapper">
-      <form>
-        <table>
-          <caption>
-            Send Your Driver
-          </caption>
-          <tr>
-            <th>Driver Name</th>
-            <td>
-              <input
-                type="TEXT"
-                name="name"
-                size="100"
-                placeholder="Sebastian Vettel"
-                required
-              />
-            </td>
-          </tr>
-          <tr>
-            <th>Driver Number</th>
-            <td>
-              <input type="number" name="email" size="100" placeholder="41" />
-            </td>
-          </tr>
-
-          <tr>
-            <th>Team</th>
-            <td>
-              <select id="cars" name="Select your team">
-                <option value="volvo">Mercedes</option>
-                <option value="saab">Ferrari</option>
-                <option value="fiat">Red Bull</option>
-                <option value="audi">McLaren</option>
-                <option value="audi">Alpine</option>
-                <option value="audi">AlphaTauri</option>
-                <option value="audi">Aston Martin</option>
-                <option value="audi">Haas</option>
-                <option value="audi">Alfa Romeo</option>
-                <option value="audi">Williams</option>
-              </select>
-            </td>
-          </tr>
-          <tr>
-            <th>Gender</th>
-            <td>
-              <input
-                type="radio"
-                id="male"
-                name="gender"
-                value="male"
-                required
-              />
-              <label for="male">Male</label><br />
-              <input
-                type="radio"
-                id="female"
-                name="gender"
-                value="female"
-                required
-              />
-              <label for="female">Female</label><br />
-            </td>
-          </tr>
-        </table>
-        <p align="center"><input type="SUBMIT" value="Submit" /></p>
-      </form>
-    </div> -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"

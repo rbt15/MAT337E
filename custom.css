@@ -9,12 +9,14 @@
   src: url(./fonts/Formula1-Bold.otf) format("truetype");
 }
 body {
-  font-family: "F1";
   background-color: #ffffff;
   font-size: 1.5rem;
 }
+nav {
+  font-family: "F1";
+}
 .navbar-brand {
-  font-family: "F1Black";
+  font-family: "F1Black" !important;
   margin-left: 50px;
   font-weight: bold;
   font-size: 2rem;

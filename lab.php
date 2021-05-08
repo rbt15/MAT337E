@@ -27,7 +27,7 @@
       <div class=\"card-author\">
   
         <div class=\"author-name\">
-          <div class=\"author-name-prefix\">".$value[body]."</div>
+          <div class=\"author-name-prefix\">".$value["body"]."</div>
           <div class=\"author-name-suffix\">
           Kıraç Acar Apaydın
         </div>
