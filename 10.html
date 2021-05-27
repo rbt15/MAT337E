@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Lab 10</title>
+  </head>
+  <body>
+    <p>
+      <em style="font-family: monospace; font-size: 1.5rem"
+        >Psst: have a look at the JavaScript Console</em
+      >
+      💁
+    </p>
+    <p style="font-family: monospace; font-size: 1.5rem">
+      <em><b>Cmd + Shift + J</b> or <b>F12</b></em>
+    </p>
+    <script>
+      var name = 'kıraç'
+      var reverse_name = name.split("").reverse().join("").toUpperCase();
+      console.log(`Name is '${name}' and result is '${reverse_name}'`);
+      var max = Math.max(0,9,0,1,9,0,7,4,5)
+      console.log(`Number is '090190745' and result is '${max}'`)
+      var studentNum = 090190745
+      var binary = parseInt(max, 10).toString(2)
+      console.log(`Number is '${studentNum}' and result is '${binary}'`);
+      var timeElapsed = Date.now();
+      var today = new Date(timeElapsed).toDateString()
+      console.log(`Date: ${today}`)
+      console.log(`Factorial of m : ${factorialize(max)}`)
+      var consoleFormat = [];
+      for(var i = 1; i <= 10; i++) {
+          consoleFormat[i] = []
+          for(var j = 1; j <= 10; j++)
+              consoleFormat[i].push(i*j)            
+      }
+      console.table(consoleFormat)
+
+
+
+
+
+
+
+
+      function factorialize(num) {
+        if (num < 0) 
+              return -1;
+        else if (num == 0) 
+            return 1;
+        else {
+            return (num * factorialize(num - 1));
+        }
+      }
+      </script>
+  </body>
+</html>
